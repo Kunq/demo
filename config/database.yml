@@ -48,7 +48,7 @@ test:
   encoding: unicode
   database: demo_app_test
   pool: 5
-  username: demo_app
+  username: 
   password:
 
 production:
